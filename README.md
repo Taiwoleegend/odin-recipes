@@ -1,1 +1,1 @@
-My first HTML Project(Recipes). would be putting the Headings, paragraphs, bold, italic, images and links into pratice.
+My First HTML Project(Recipes). would be putting the Headings, paragraphs, bold font, italic font, images and links into practice..

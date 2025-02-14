@@ -1,0 +1,59 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+button {
+    background:  #eee;
+    padding: 8px 24px;
+    margin: auto;
+    border: 1px solid #03122f;
+    font-size: 15px;
+}
+
+.title {
+    background: #ae7dac;
+    border: 3px solid #03122f ;
+    width: 300px;
+    padding: 8px 24px;
+}
+
+.Description {
+    background: #ae7dac;
+    border: 3px solid #03122f ;
+    width: 300px;
+    padding: 8px 24px;
+}
+
+.Ingredients {
+    background: #ae7dac;
+    border: 3px solid #03122f ;
+    width: 300px;
+    padding: 8px 24px;
+}
+
+.steps {
+    background: #ae7dac;
+    border: 3px solid #03122f ;
+    width: 300px;
+    padding: 8px 24px;
+}
+
+.span1 {
+    font-weight: bold;
+}
+
+.content1,
+.content2,
+.content3 {
+    padding: 5px;
+}
+
+.link-lists a:hover {
+    background-color: #ae7dac;
+}
+
+
+
+
+

@@ -1,0 +1,15 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.page {
+width: 400px;
+background: #eee;
+}
+
+.title {
+    background: #ae7dac;
+    border: 1px solid #03122f;
+    padding: 8px 24px;
+}
